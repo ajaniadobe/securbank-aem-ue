@@ -5,6 +5,7 @@ SecurBank Demo Site for Adobe Experience Manager with Edge Delivery Services.
 - Preview: https://main--securbank-aem-ue--ajaniadobe.aem.page/
 - Live: https://main--securbank-aem-ue--ajaniadobe.aem.live/
 
+This points to at-sandbox-dev
 ## Installation
 
 ```sh
